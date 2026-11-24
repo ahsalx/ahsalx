@@ -43,7 +43,10 @@
 - **[Enterprise Multi-Site Network Lab](https://github.com/ahsalx/enterprise-multi-site-network-lab)** — Cisco IOS, OSPF, VLANs and FortiGate HA.
 - **[Cisco Password Recovery Lab](https://github.com/ahsalx/Cisco-Password-Recovery-Lab-Packet-Tracer)** — Router and switch password recovery.
 - **[Cisco Configuration Backup & IOS Upgrade](REPOSITORY_URL)** — Configuration backups, IOS upgrades and TFTP recovery.
-
+- **[Fly-in](https://github.com/ahsalx/flyin)** — Drone simulation and pathfinding using Python.
+- **[Push Swap](https://github.com/ahsalx/push_swap)** — Stack-based sorting algorithm in C.
+- **[Born2beroot](https://github.com/ahsalx/Born2beroot)** — Linux system administration and security hardening.
+- **[Libft](https://github.com/ahsalx/libft)** — Custom implementation of standard C library functions.
 
 ## 📡 `> ping --connect`
 
