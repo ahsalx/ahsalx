@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://i.ibb.co/8LSDN765/hub.gif" alt="Banner" width="85%" />
+  <img src="https://i.ibb.co/8LSDN765/hub.gif" alt="Banner" width="90%" />
 </p>
 
 ## 📌 About Me
