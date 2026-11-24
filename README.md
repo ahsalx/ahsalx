@@ -2,7 +2,9 @@
   Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30" width="30"> I'm Ahmed Ben Salah
 </h1>
 
-<img src="https://i.ibb.co/8LSDN765/hub.gif" alt="Banner" width="70%" />
+<p align="center">
+  <img src="https://i.ibb.co/8LSDN765/hub.gif" alt="Banner" width="75%" />
+</p>
 
 ## 📌 About Me
 
