@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30" width="30"> I'm Ahmed Ben Salah
+  Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30" width="30"> I'm Ahmed
 </h1>
 
 <p align="center">
