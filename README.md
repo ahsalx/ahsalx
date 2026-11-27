@@ -41,8 +41,10 @@
 ## 📂 `> ls ./projects`
 
 - **[Enterprise Multi-Site Network Lab](https://github.com/ahsalx/enterprise-multi-site-network-lab)** — Cisco IOS, OSPF, VLANs and FortiGate HA.
+- **[OSPF Troubleshooting Labs](https://github.com/ahsalx/OSPF-Troubleshooting-Labs)** — Troubleshooting multi-area OSPF misconfigurations and restoring connectivity.
 - **[Cisco Password Recovery Lab](https://github.com/ahsalx/Cisco-Password-Recovery-Lab-Packet-Tracer)** — Router and switch password recovery.
-- **[Cisco Configuration Backup & IOS Upgrade](REPOSITORY_URL)** — Configuration backups, IOS upgrades and TFTP recovery.
+- **[Cisco IOS Image Recovery Lab](https://github.com/ahsalx/Cisco-IOS-Image-Recovery-Lab-Packet-Tracer)** — Recovery of a missing Cisco IOS image using ROMMON and TFTP.
+- **[Cisco Configuration Backup, Restore & IOS Upgrade](https://github.com/ahsalx/Cisco-Configuration-Backup-Restore-IOS-Upgrade-Lab)** — Configuration backup and restore, IOS upgrades and TFTP.
 - **[Fly-in](https://github.com/ahsalx/flyin)** — Drone simulation and pathfinding using Python.
 - **[Push Swap](https://github.com/ahsalx/push_swap)** — Stack-based sorting algorithm in C.
 - **[Born2beroot](https://github.com/ahsalx/Born2beroot)** — Linux system administration and security hardening.
